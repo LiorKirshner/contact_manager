@@ -7,6 +7,3 @@ contact-manager/
 ├── commands/
 │ └── commandHandler.js
 └── app.js
-git a
-lior
-req
